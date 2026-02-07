@@ -1,10 +1,10 @@
-# Artifact Virtual Quantum Shield
+# QShield
 
 **Multi-Layer Encryption System with Self-Healing Automation**
 
 ## Overview
 
-Quantum Shield is a fail‑safe, self‑healing git-integrated tool that auto-encrypts classification-marked files using per-file salt and a multi-layer XOR-derived key scheme, purges old history with encrypted backups, supports classification-based batch ops and audit logging, and recommends AES‑256‑GCM/HSMs or post‑quantum KEMs for production security.
+QShield is a fail‑safe, self‑healing git-integrated tool that auto-encrypts classification-marked files using per-file salt and a multi-layer XOR-derived key scheme, purges old history with encrypted backups, supports classification-based batch ops and audit logging, and recommends AES‑256‑GCM/HSMs or post‑quantum KEMs for production security.
 
 The Quantum Shield is a comprehensive security system designed to protect Artifact Virtual's sensitive data with:
 
